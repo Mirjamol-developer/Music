@@ -1,0 +1,35 @@
+ body{
+    margin: 0px;
+    background-image: url(https://images.pling.com/img/00/00/37/10/41/1982202/music-b1-001-t01-wallpaper-by-markospoko-preview1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.qora{
+    color: black;
+    text-shadow: 1px 2px red;
+}
+
+.qizil{
+    color: black;
+    text-shadow: 1px 1px blueviolet;
+}
+.oq{
+    color: black;
+    text-shadow: 1px 1px rgb(255, 230, 0);
+}
+
+.title{
+    color: blue;
+    border: 3px solid aqua;
+    background-color: rgb(255, 211, 211);
+    border-radius: 20px;
+    padding: 2%;
+    margin: 0;
+    display: inline;
+    inline-size: 50%;
+}
